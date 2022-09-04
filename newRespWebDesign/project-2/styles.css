@@ -1,0 +1,83 @@
+* {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+main {
+    margin: 25px 3px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;    
+    padding: 20px;
+}
+
+#img-div {
+    background-color: #fff;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#img-div > figcaption {
+    margin: 20px auto;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#tribute-info {
+    width: 40%;
+    min-width: 400px;
+    margin: 5rem auto;
+    line-height: 1.5rem;
+}
+
+#tribute-info h2 {
+    text-align: center;
+    margin: 3rem auto;
+}
+
+#tribute-info ul li {
+    margin: 1.2rem auto;
+    letter-spacing: 0.2px;
+}
+
+.quote {
+    margin: 50px auto 0 auto;
+    font-style: italic;
+}
+
+.quotecite {
+    margin-top: 25px;
+}
+
+.formore {
+    width: 70%;
+    min-width: 400px;
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.formore a {
+    font-size: inherit;
+    font-weight: inherit;
+}
